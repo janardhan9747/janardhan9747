@@ -1,6 +1,4 @@
-# Resume
-
-Hi, I'm Janardhan 👋
+# Hi, I'm Janardhan 👋
 
 I'm currently a sophomore at Amity University Noida, Uttar Pradesh where I am currently studying BBA in Business Intelligence and Data Analytics. I am passionate about technology, robotics, drones, artificial intelligence, and many more things.
 
