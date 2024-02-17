@@ -1,4 +1,4 @@
 # Hi, I'm Janardhan 👋
 
-I'm currently a freshman at Macquarie University,Sydney NSW where I am currently studying Masters in Business Analytics. I am passionate about technology, robotics, drones, artificial intelligence, and many more things.
+"I'm a freshman at Macquarie University in Sydney, NSW, pursuing a Masters in Business Analytics. Passionate about technology, robotics, drones, and artificial intelligence. Previously graduated from Amity University, Noida, Uttar Pradesh with a BBA in Business Intelligence and Data Analytics."
 
